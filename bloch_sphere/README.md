@@ -12,3 +12,6 @@
 ## Qiskit Docs
 - https://qiskit.org/textbook/ch-states/single-qubit-gates.html
 - https://qiskit.org/documentation/tutorials/circuits/3_summary_of_quantum_operations.html
+
+### Qiskit on GitHub
+- https://github.com/Qiskit
