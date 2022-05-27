@@ -8,6 +8,7 @@
 - Michael A. Nielsen & Isaac L. Chuang: Quantum Computation and Quantum Information
 - SO(3) und SU(2): Patrick Steppeler (https://www.uni-muenster.de/Physik.TP/archive/fileadmin/lehre/teilchen/ws1011/SO3SU2.pdf)
 - The Quaternions and the Spaces (https://www.cis.upenn.edu/~cis610/geombchap8.pdf)
+- Demonstration of fault-tolerant universal quantum gate operations (https://www.nature.com/articles/s41586-022-04721-1)
 
 ## Qiskit Docs
 - https://qiskit.org/textbook/ch-states/single-qubit-gates.html
