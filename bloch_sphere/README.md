@@ -9,6 +9,8 @@
 - SO(3) und SU(2): Patrick Steppeler (https://www.uni-muenster.de/Physik.TP/archive/fileadmin/lehre/teilchen/ws1011/SO3SU2.pdf)
 - The Quaternions and the Spaces (https://www.cis.upenn.edu/~cis610/geombchap8.pdf)
 - Demonstration of fault-tolerant universal quantum gate operations (https://www.nature.com/articles/s41586-022-04721-1)
+- https://www.math.purdue.edu/~arapura/algebra/algebra13.pdf
+- The groups SO(3) and SU(2) and their representations (https://www.physik.uni-bielefeld.de/~borghini/Teaching/Symmetries17/12_15.pdf)
 
 ## Qiskit Docs
 - https://qiskit.org/textbook/ch-states/single-qubit-gates.html
