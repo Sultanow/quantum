@@ -12,6 +12,11 @@
 - https://www.math.purdue.edu/~arapura/algebra/algebra13.pdf
 - The groups SO(3) and SU(2) and their representations (https://www.physik.uni-bielefeld.de/~borghini/Teaching/Symmetries17/12_15.pdf)
 
+### SU(2) counterclockwise rotation
+- "If a certain point with coordinate (x, y) is rotated counterclockwise by an α angle around the origin, this process can be represented by a transformation of two-dimensional rotation matrix" https://iopscience.iop.org/article/10.1088/2040-8986/ac3676
+- https://quantumcomputing.stackexchange.com/questions/26257/rxx-gate-as-a-set-of-rotations
+- "An active counterclockwise rotation by the angle θ is implemented by the matrix multiplication" http://mf23.web.rice.edu/LA_1_v2.1%20Rotations%20in%203D,%20so(3),%20su(2).pdf 
+
 ## Qiskit Docs
 - https://qiskit.org/textbook/ch-states/single-qubit-gates.html
 - https://qiskit.org/documentation/tutorials/circuits/3_summary_of_quantum_operations.html
