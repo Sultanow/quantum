@@ -17,6 +17,7 @@
 - https://quantumcomputing.stackexchange.com/questions/26257/rxx-gate-as-a-set-of-rotations
 - "An active counterclockwise rotation by the angle θ is implemented by the matrix multiplication" http://mf23.web.rice.edu/LA_1_v2.1%20Rotations%20in%203D,%20so(3),%20su(2).pdf 
 - "The direction of vector rotation is counterclockwise if θ is positive (e.g. 90°), and clockwise if θ is negative (e.g. −90°)." https://en.wikipedia.org/wiki/Rotation_matrix
+- https://hal-cea.archives-ouvertes.fr/cea-01572342/file/1-Spinors-for-every-one-typos.pdf
 - "The most general three-dimensional rotation matrix represents a counterclockwise
 rotation by an angle θ about a fixed axis that lies along the unit vector" http://scipp.ucsc.edu/~haber/ph216/rotation_12.pdf
 - "These matrices rotate a vector in the counterclockwise direction by an angle θ." https://www.cuemath.com/algebra/rotation-matrix/
