@@ -28,6 +28,14 @@ rotation by an angle θ about a fixed axis that lies along the unit vector" http
 - "The vectors |0i and |1i are already eigenvectors of σz, so we should not besurprised to see that the matrix form is diagonal. Similarly, we find the matrix form of the other two Pauli operators." https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/teaching/QMChapter2.pdf
 - "The Pauli matrices are a set of three 2×2 complex matrices which are Hermitian and unitary." https://blog.cupcakephysics.com/math%20methods/quantum%20field%20theory/2014/10/19/the-pauli-vector-and-lie-groups-part-1.html
 
+### Curve analysis
+- Fourier-Transformation (https://de.wikipedia.org/wiki/Fourier-Transformation)
+- Fourier-Analysis (https://de.wikipedia.org/wiki/Fourier-Analysis)
+- Wavelets (https://aip.scitation.org/doi/pdf/10.1063/1.168573)
+- Hartley transform (https://en.wikipedia.org/wiki/Hartley_transform)
+- Hankel transform (https://en.wikipedia.org/wiki/Hankel_transform)
+- Linear canonical transformation (https://en.wikipedia.org/wiki/Linear_canonical_transformation)
+
 ## Qiskit Docs
 - https://qiskit.org/textbook/ch-states/single-qubit-gates.html
 - https://qiskit.org/documentation/tutorials/circuits/3_summary_of_quantum_operations.html
