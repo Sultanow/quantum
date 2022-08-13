@@ -36,6 +36,15 @@ rotation by an angle θ about a fixed axis that lies along the unit vector" http
 - Hankel transform (https://en.wikipedia.org/wiki/Hankel_transform)
 - Linear canonical transformation (https://en.wikipedia.org/wiki/Linear_canonical_transformation)
 
+### Möbius transformation
+- Möbiustransformation in Wikipedia (https://de.wikipedia.org/wiki/Möbiustransformation)
+- Solving for Möbius transformation coefficients (https://www.johndcook.com/blog/2021/03/28/mobius-coefficients/)
+- Applying a Moebius transformation to an image (https://glowingpython.blogspot.com/2011/08/applying-moebius-transformation-to.html)
+- Conformal Mappings with SymPy (https://conference.scipy.org/proceedings/scipy2021/pdfs/lauer_bare_gaertig.pdf)
+- Mobius transformation mapping three specific points... (https://www.mail-archive.com/sympy@googlegroups.com/msg36327.html)
+- M¨obius-Transformation (https://vhm.mathematik.uni-stuttgart.de/Vorlesungen/Komplexe_Analysis/Folien_Moebius-Transformation.pdf)
+
+
 ## Qiskit Docs
 - https://qiskit.org/textbook/ch-states/single-qubit-gates.html
 - https://qiskit.org/documentation/tutorials/circuits/3_summary_of_quantum_operations.html
