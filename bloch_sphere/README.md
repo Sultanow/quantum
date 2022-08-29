@@ -44,6 +44,10 @@ rotation by an angle θ about a fixed axis that lies along the unit vector" http
 - Mobius transformation mapping three specific points... (https://www.mail-archive.com/sympy@googlegroups.com/msg36327.html)
 - M¨obius-Transformation (https://vhm.mathematik.uni-stuttgart.de/Vorlesungen/Komplexe_Analysis/Folien_Moebius-Transformation.pdf)
 
+### potentially useful Wolfram Mathematica functions
+- Output points of a function (https://reference.wolfram.com/language/ref/Table.html)
+- Compute the nth Derivative of a Function (https://www.wolfram.com/language/12/core-calculus/compute-the-nth-derivative-of-a-function.html.en)
+
 
 ## Qiskit Docs
 - https://qiskit.org/textbook/ch-states/single-qubit-gates.html
